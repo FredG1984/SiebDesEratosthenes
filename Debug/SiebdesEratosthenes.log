@@ -1,0 +1,20 @@
+﻿Der Buildvorgang wurde am 21.04.2015 15:20:35 gestartet.
+     1>Projekt "C:\Users\User1\Desktop\SiebdesEratosthenes\SiebdesEratosthenes.vcxproj" auf Knoten "2", build Ziel(e).
+     1>InitializeBuildStatus:
+         "Debug\SiebdesEratosthenes.unsuccessfulbuild" wird erstellt, da "AlwaysCreate" angegeben wurde.
+       ClCompile:
+         Alle Ausgaben sind aktuell.
+       ManifestResourceCompile:
+         Alle Ausgaben sind aktuell.
+       Link:
+         Alle Ausgaben sind aktuell.
+       Manifest:
+         Alle Ausgaben sind aktuell.
+       FinalizeBuildStatus:
+         Die Datei "Debug\SiebdesEratosthenes.unsuccessfulbuild" wird gelöscht.
+         Aktualisieren des Timestamps von "Debug\SiebdesEratosthenes.lastbuildstate".
+     1>Die Erstellung des Projekts "C:\Users\User1\Desktop\SiebdesEratosthenes\SiebdesEratosthenes.vcxproj" ist abgeschlossen, build Ziel(e).
+
+Das Erstellen war erfolgreich.
+
+Verstrichene Zeit 00:00:00.13
